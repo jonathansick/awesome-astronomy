@@ -11,6 +11,7 @@ A list of awesome astronomy projects. [Please contribute with pull requests!](CO
 ### Statistics
 
 - [AstroML](http://www.astroml.org) - A Python package for machine learning and data mining. Includes density estimation, supervised learning, dimensionality reduction, time series analysis, regression and classification. Associated with the book *Statistics, Data Mining, and Machine Learning in Astronomy* by Zeljko Ivezic, Andrew Connolly, Jacob VanderPlas, and Alex Gray. [python]
+- [Emcee](http://dan.iel.fm/emcee/current/) - Seriously kick-ass MCMC. Emcee is an MIT licensed pure-Python implementation of [Goodman & Weare’s Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler](http://msp.berkeley.edu/camcos/2010/5-1/p04.xhtml) [python]
 
 ### Visualization
 
