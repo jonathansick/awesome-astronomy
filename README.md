@@ -6,7 +6,7 @@ A list of awesome astronomy projects.
 
 ### General Frameworks
 
-- [Astropy](http://astropy.org) is da bomb. [Python]
+- [Astropy](http://astropy.org) - Aims to be the single core package for Astronomy in Python. Includes FITS data structures, flexible tables with even more flexible I/O, units, coordinates (including WCS), statistical modelling, and cosmology routines. [python]
 
 ****
 
