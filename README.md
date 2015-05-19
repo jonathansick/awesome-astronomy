@@ -1,6 +1,6 @@
 # Awesome Astronomy
 
-A list of awesome astronomy projects.
+A list of awesome astronomy projects. [Please contribute with pull requests!](CONTRIBUTING.md)
 
 ## Awesome Codes
 
@@ -10,6 +10,6 @@ A list of awesome astronomy projects.
 
 ****
 
-Licensed Creative Commons Zero.
+Licensed [Creative Commons Zero](LICENSE).
 
 [This exists because they told me to do it.](https://twitter.com/exoplaneteer/status/600452917779308544)
