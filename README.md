@@ -2,6 +2,10 @@
 
 A list of awesome astronomy projects. [Please contribute with pull requests!](CONTRIBUTING.md)
 
+## Awesome Datasets
+
+- [AstroML](http://www.astroml.org/user_guide/datasets.html) - Tools for downloading and working with astronomical data sets, including SDSS spectra, SDSS photometry, SDSS DR7 Quasar Catalog, SDSS Imaging, Stripe 82 time domain, NASA Sloan Atlas, RR Lyrae templates, LINEAR light curves, LIGO data, and WMAP.
+
 ## Awesome Codes
 
 ### General Frameworks
