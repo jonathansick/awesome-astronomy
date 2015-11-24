@@ -1,23 +1,25 @@
 # Awesome Astronomy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An [awesome list](https://github.com/sindresorhus/awesome) of astronomy projects.  *Everyone* is invited to [contribute](CONTRIBUTING.md).
+An [awesome list](https://github.com/sindresorhus/awesome) of resources for professional astronomers.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
 
 ## Contents
 
-- [Datasets](#datsets)
+- [Blogs](#blogs)
 - [Codes](#codes)
-- [Professional developement]()
+- [Datasets](#datsets)
+
 
 ### Blogs
 
-- [AAS Policy Blog by J. Shiode](http://aas.org/policy/policy-blog)
-- [AstroBetter](http://www.astrobetter.com/)
-- [Astrobiased](http://www.astrobiased.com/)
-- [AstroWright](http://sites.psu.edu/astrowright/)
-- [dan foreman-mackey](http://dan.iel.fm/posts/)
-- [Hogg Blog](http://hoggresearch.blogspot.com/)
-- [Pythonic Perambulations](https://jakevdp.github.io/)
-- [SarahAskew](http://sarahaskew.net/)
+- [AAS Policy Blog](http://aas.org/policy/policy-blog) Josh Shiode
+- [AstroBetter](http://www.astrobetter.com/) Kelle Cruz and many other contributors
+- [Astrobiased](http://www.astrobiased.com/) Eli Bressert
+- [AstroWright](http://sites.psu.edu/astrowright/) Jason Wright
+- [dan foreman-mackey](http://dan.iel.fm/posts/) Daniel Foreman-Mackey
+- [Hogg Blog](http://hoggresearch.blogspot.com/) David W. Hogg
+- [gully](http://gully.github.io/blog/) Michael Gully-Santiago
+- [Pythonic Perambulations](https://jakevdp.github.io/) Jacob T. VanderPlas
+- [SarahAskew](http://sarahaskew.net/) Sarah Kendrew
 
 ### Codes
 
