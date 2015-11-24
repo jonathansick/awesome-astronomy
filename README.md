@@ -6,6 +6,8 @@ A list of awesome astronomy projects. [Please contribute with pull requests!](CO
 
 - [AstroML](http://www.astroml.org/user_guide/datasets.html) - Tools for downloading and working with astronomical data sets, including SDSS spectra, SDSS photometry, SDSS DR7 Quasar Catalog, SDSS Imaging, Stripe 82 time domain, NASA Sloan Atlas, RR Lyrae templates, LINEAR light curves, LIGO data, and WMAP.
 
+- [ApJDataFrames](https://github.com/BrownDwarf/ApJdataFrames) - Example datasets from ApJ papers, with Jupyter Notebooks for reading the data directly into Pandas Dataframes.  Data centers around brown dwarfs, with examples from Luhman et al. 1999 - 2012, Patten et al. 2006, McClure et al. 2010, etc.
+
 ## Awesome Codes
 
 ### General Frameworks
