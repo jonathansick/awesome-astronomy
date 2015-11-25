@@ -10,7 +10,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [Datasets](#datsets)
 - [Social Media](#social-media)
 
-**
+***
 
 ### Blogs
 
