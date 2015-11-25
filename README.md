@@ -6,9 +6,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 
 - [Blogs](#blogs)
 - [Codes](#codes)
+- [Conferences](#conferences)
 - [Datasets](#datsets)
 - [Social Media](#social-media)
 
+***
 
 ### Blogs
 
