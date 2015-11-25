@@ -51,6 +51,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [Astronomer's Facebook Group](https://www.facebook.com/groups/123898011017097/) - A Closed group for information sharing among professional astromers, with over 8000 members.
 - [Astronomers on Twitter](http://truesciphi.org/ast.html) - List of Astronomers on Twitter with over 1000 followers.
 - [Astromers.io](http://astronomers.io/) - "A nice place for astronomers, and those working in the sphere of professional astronomy"
+- [Community.lsst.org](https://community.lsst.org) - A community forum for anyone interested in using/developing LSST software and doing science with LSST.
 - [Python Users in Astronomy](https://www.facebook.com/groups/astropython/) - A closed group for python users in astronomy.
 
 ****
