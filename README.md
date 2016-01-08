@@ -42,7 +42,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 
 #### IDL
 
-- [NASA'S IDL Astronomy User's Library](http://idlastro.gsfc.nasa.gov/) - large libary with plenty of very usefule code for astronomers
+- [NASA'S IDL Astronomy User's Library](http://idlastro.gsfc.nasa.gov/) - large libary with plenty of very useful code for astronomers
 
 
 ### Conferences
