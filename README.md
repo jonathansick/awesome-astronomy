@@ -42,7 +42,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 
 ### Conferences
 
-- [International Astronomy Meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/) - List of all Astronomy Conferences maintained by the Canadian Astronomy Data Center
+- [International Astronomy Meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/) - List of all planned Astronomy Conferences
 
 
 ### Datasets
@@ -73,7 +73,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 
 ### Social Media
 
-- [Astronomer's Facebook Group](https://www.facebook.com/groups/123898011017097/) - A closed group for information sharing among professional astromers, with over 8000 members.
+- [Astronomer's Facebook Group](https://www.facebook.com/groups/123898011017097/) - Closed group for professional astromers, with over 8000 members.
 - [Astronomers on Twitter](http://truesciphi.org/ast.html) - List of Astronomers on Twitter with over 1000 followers.
 - [Astromers.io](http://astronomers.io/) - "A nice place for astronomers, and those working in the sphere of professional astronomy"
 - [Community.lsst.org](https://community.lsst.org) - A community forum for using/developing LSST software and doing science with LSST.
