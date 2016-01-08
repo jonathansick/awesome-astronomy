@@ -40,6 +40,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [GalPy](https://github.com/jobovy/galpy) - Galactic Dynamics in python.
 - [The LSST Stack](https://confluence.lsstcorp.org/display/LSWUG/Using+the+LSST+Stack) Conda-installable codes for working with LSST simulation data and some existing data.
 
+#### IDL
+
+- [NASA'S IDL Astronomy User's Library](http://idlastro.gsfc.nasa.gov/) - large libary with plenty of very useful code for astronomers
+
+
 ### Conferences
 
 - [International Astronomy Meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/) - List of all planned Astronomy Conferences
