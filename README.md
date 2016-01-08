@@ -55,14 +55,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [Hipparcos](http://heasarc.gsfc.nasa.gov/W3Browse/all/hipparcos.html) - Subset of HYG.
 - [HYG](http://www.astronexus.com/hyg)- Database containing all stars in Hipparcos, Yale Bright Star, and Gliese catalogs (almost 120,000 stars, 14 MB).
 - [LINEAR](http://www.astro.washington.edu/users/ivezic/linear/PaperIII/PLV.html) - 7194 LINEAR variables with light curve classification.
+- [OGLE](http://ogledb.astrouw.edu.pl/~ogle/CVS/) - Variable stars towards OGLE-III fields in the Magellanic Clouds and Galactic bulge
 - [Research-based Science Education for Undergraduates](http://rbseu.uaa.alaska.edu/index.html) - Curated datasets on 7 projects designed for undergraduates.
 - [SDSS SQL query](http://skyserver.sdss.org/dr12/en/proj/advanced/hr/sql.aspx) - Sloan Digital Sky Survey.
 - [SDSS for Teachers](http://cas.sdss.org/dr5/en/proj/teachers/) - Includes basic projects and advanced projects
 - [Supernova Cosmology Project](http://supernova.lbl.gov/union/) The Union2.1 SN Ia compilation of 883 SNe from 19 datasets.
 
-
-
-- [OGLE](http://ogledb.astrouw.edu.pl/~ogle/CVS/)
 
 ### Future Datasets
 
