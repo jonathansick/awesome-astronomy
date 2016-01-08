@@ -41,14 +41,30 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 
 ### Datasets
 
-- [Brown Dwarf Data Frames](https://github.com/BrownDwarf/ApJdataFrames) - Example brown dwarf datasets from ApJ papers, with Pandas and Jupyter Notebooks.
+- [AllWISE](http://irsa.ipac.caltech.edu/Missions/wise.html)
 - [AstroML](http://www.astroml.org/user_guide/datasets.html) - Tools for downloading and working with astronomical data sets, including SDSS, LINEAR light curves, LIGO data, etc.
+- [GALEX SQL query](http://galex.stsci.edu/casjobs/) - 
+- [Hipparcos](http://heasarc.gsfc.nasa.gov/W3Browse/all/hipparcos.html) - Subset of HYG.
+- [HYG](http://www.astronexus.com/hyg)- Database containing all stars in Hipparcos, Yale Bright Star, and Gliese catalogs (almost 120,000 stars, 14 MB).
+- [Research-based Science Education for Undergraduates](http://rbseu.uaa.alaska.edu/index.html) - Curated datasets on 7 projects designed for undergraduates.
+- [SDSS SQL query](http://skyserver.sdss.org/dr12/en/proj/advanced/hr/sql.aspx)
+- [SDSS for Teachers](http://cas.sdss.org/dr5/en/proj/teachers/)
+- [Supernova Cosmology Project](http://supernova.lbl.gov/union/) The Union2.1 SN Ia compilation of 883 SNe from 19 datasets.
+- [LINEAR](http://www.astro.washington.edu/users/ivezic/linear/PaperIII/PLV.html)
+- [AAVSO Data](https://www.aavso.org/data-download) - long time baseline data for variable stars
+- [AAVSO APASS](http://www.aavso.org/apass) Optical all sky data.
+- [OGLE](http://ogledb.astrouw.edu.pl/~ogle/CVS/)
+
+### Future Datasets
+
+- [ARCHES](http://www.arches-fp7.eu/index.php/tools-data/accessing-data) - XMM-Newton cross match database
+- [Pan-Starrs](http://ipp.ifa.hawaii.edu/index.php) - Public data release coming soon.
 
 
 
 ### Social Media
 
-- [Astronomer's Facebook Group](https://www.facebook.com/groups/123898011017097/) - A Closed group for information sharing among professional astromers, with over 8000 members.
+- [Astronomer's Facebook Group](https://www.facebook.com/groups/123898011017097/) - A closed group for information sharing among professional astromers, with over 8000 members.
 - [Astronomers on Twitter](http://truesciphi.org/ast.html) - List of Astronomers on Twitter with over 1000 followers.
 - [Astromers.io](http://astronomers.io/) - "A nice place for astronomers, and those working in the sphere of professional astronomy"
 - [Python Users in Astronomy](https://www.facebook.com/groups/astropython/) - A closed group for python users in astronomy.
