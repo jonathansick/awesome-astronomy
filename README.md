@@ -23,6 +23,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [gully](http://gully.github.io/blog/) Michael Gully-Santiago
 - [Pythonic Perambulations](https://jakevdp.github.io/) Jacob T. VanderPlas
 - [SarahAskew](http://sarahaskew.net/) Sarah Kendrew
+- [astrobites](https://astrobites.org/) The astro-ph reader's digest
 
 ### Codes
 
@@ -30,6 +31,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 
 - [Astronomy Source Code Library](http://ascl.net/) - A free online registry for source codes of interest to astronomers and astrophysicists. 
 - [Continuum Anaconda](https://www.continuum.io/why-anaconda) - Install, update, manage Python environments.
+- [ztv](https://github.com/henryroe/ztv) - An astronomical image viewer written in Python.
 
 #### Python
 
@@ -39,16 +41,16 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [Emcee](http://dan.iel.fm/emcee/current/) - Seriously kick-ass MCMC.
 - [GalPy](https://github.com/jobovy/galpy) - Galactic Dynamics in python.
 - [The LSST Stack](https://confluence.lsstcorp.org/display/LSWUG/Using+the+LSST+Stack) Conda-installable codes for working with LSST simulation data and some existing data.
+- [ExoData](https://github.com/ryanvarley/ExoData) - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) interface and exploratory analysis tool.
 
 #### IDL
 
 - [NASA'S IDL Astronomy User's Library](http://idlastro.gsfc.nasa.gov/) - large libary with plenty of very useful code for astronomers
 
-
 ### Conferences
 
 - [International Astronomy Meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/) - List of all planned Astronomy Conferences
-
+- [Python in Astronomy](http://openastronomy.org/pyastro/) - A conference series focusing on the use, development, and community surrounding Python packages for all types of Astronomy.
 
 ### Datasets
 
@@ -65,14 +67,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [SDSS SQL query](http://skyserver.sdss.org/dr12/en/proj/advanced/hr/sql.aspx) - Sloan Digital Sky Survey.
 - [SDSS for Teachers](http://cas.sdss.org/dr5/en/proj/teachers/) - Includes basic projects and advanced projects
 - [Supernova Cosmology Project](http://supernova.lbl.gov/union/) The Union2.1 SN Ia compilation of 883 SNe from 19 datasets.
-
+- [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) - An open source database of all discovered extrasolar planets.
 
 ### Future Datasets
 
 - [ARCHES](http://www.arches-fp7.eu/index.php/tools-data/accessing-data) - XMM-Newton cross match database
 - [Pan-Starrs](http://ipp.ifa.hawaii.edu/index.php) - Public data release coming soon.
-
-
 
 ### Social Media
 
