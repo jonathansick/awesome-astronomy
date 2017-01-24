@@ -17,13 +17,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [AAS Policy Blog](http://aas.org/policy/policy-blog) Josh Shiode
 - [AstroBetter](http://www.astrobetter.com/) Kelle Cruz and many other contributors
 - [Astrobiased](http://www.astrobiased.com/) Eli Bressert
+- [astrobites](https://astrobites.org/) The astro-ph reader's digest
 - [AstroWright](http://sites.psu.edu/astrowright/) Jason Wright
 - [dan foreman-mackey](http://dan.iel.fm/posts/) Daniel Foreman-Mackey
 - [Hogg Blog](http://hoggresearch.blogspot.com/) David W. Hogg
 - [gully](http://gully.github.io/blog/) Michael Gully-Santiago
 - [Pythonic Perambulations](https://jakevdp.github.io/) Jacob T. VanderPlas
 - [SarahAskew](http://sarahaskew.net/) Sarah Kendrew
-- [astrobites](https://astrobites.org/) The astro-ph reader's digest
 
 ### Codes
 
@@ -39,9 +39,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [Astropy](http://astropy.org) - Core package for Astronomy in Python.
 - [AstroML](http://www.astroml.org) - Companion textbook *Statistics, Data Mining, and Machine Learning in Astronomy*.
 - [Emcee](http://dan.iel.fm/emcee/current/) - Seriously kick-ass MCMC.
+- [ExoData](https://github.com/ryanvarley/ExoData) - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) interface and exploratory analysis tool.
 - [GalPy](https://github.com/jobovy/galpy) - Galactic Dynamics in python.
 - [The LSST Stack](https://confluence.lsstcorp.org/display/LSWUG/Using+the+LSST+Stack) Conda-installable codes for working with LSST simulation data and some existing data.
-- [ExoData](https://github.com/ryanvarley/ExoData) - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) interface and exploratory analysis tool.
 
 #### IDL
 
@@ -63,11 +63,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [HYG](http://www.astronexus.com/hyg)- Database containing all stars in Hipparcos, Yale Bright Star, and Gliese catalogs (almost 120,000 stars, 14 MB).
 - [LINEAR](http://www.astro.washington.edu/users/ivezic/linear/PaperIII/PLV.html) - 7194 LINEAR variables with light curve classification.
 - [OGLE](http://ogledb.astrouw.edu.pl/~ogle/CVS/) - Variable stars towards OGLE-III fields in the Magellanic Clouds and Galactic bulge
+- [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) - An open source database of all discovered extrasolar planets.
 - [Research-based Science Education for Undergraduates](http://rbseu.uaa.alaska.edu/index.html) - Curated datasets on 7 projects designed for undergraduates.
 - [SDSS SQL query](http://skyserver.sdss.org/dr12/en/proj/advanced/hr/sql.aspx) - Sloan Digital Sky Survey.
 - [SDSS for Teachers](http://cas.sdss.org/dr5/en/proj/teachers/) - Includes basic projects and advanced projects
 - [Supernova Cosmology Project](http://supernova.lbl.gov/union/) The Union2.1 SN Ia compilation of 883 SNe from 19 datasets.
-- [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) - An open source database of all discovered extrasolar planets.
 
 ### Future Datasets
 
