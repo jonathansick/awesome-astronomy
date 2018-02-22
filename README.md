@@ -29,12 +29,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 
 #### General purpose
 
-- [Astronomy Source Code Library](http://ascl.net/) - A free online registry for source codes of interest to astronomers and astrophysicists. 
+- [Astronomy Source Code Library](http://ascl.net/) - A free online registry for source codes of interest to astronomers and astrophysicists.
 - [Continuum Anaconda](https://www.continuum.io/why-anaconda) - Install, update, manage Python environments.
 - [ztv](https://github.com/henryroe/ztv) - An astronomical image viewer written in Python.
-
-#### Python
-
 - [AplPy](http://aplpy.github.io) - a Python module for astronomical imaging data.
 - [Astropy](http://astropy.org) - Core package for Astronomy in Python.
 - [AstroML](http://www.astroml.org) - Companion textbook *Statistics, Data Mining, and Machine Learning in Astronomy*.
@@ -42,6 +39,106 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [ExoData](https://github.com/ryanvarley/ExoData) - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) interface and exploratory analysis tool.
 - [GalPy](https://github.com/jobovy/galpy) - Galactic Dynamics in python.
 - [The LSST Stack](https://confluence.lsstcorp.org/display/LSWUG/Using+the+LSST+Stack) Conda-installable codes for working with LSST simulation data and some existing data.
+Detrending & Analysis
+
+#### Kepler/K2/TESS
+
+*Detrending*
+
+- [PyKE](http://github.com/KeplerGO/PyKE) : Kepler, K2 & TESS Data Analysis Tools
+- [everest](http://github.com/rodluger/everest) : De-trending of K2 Light curves
+- [k2sc](http://github.com/OxES/k2sc) : K2 systematics correction using Gaussian processes
+- [nutella](http://github.com/benmontet/nutella) : Great (point) spreads for beautiful Kepler/K2 inference
+- [skope](http://github.com/nksaunders/skope) : Synthetic K2 Objects for PLD Experimentation
+- [k2phot](http://github.com/petigura/k2phot) : public k2phot code from Erik Petigura
+- [K2-CPM](http://github.com/jvc2688/K2-CPM) : K2 Causal Pixel Model
+- [halophot](https://github.com/hvidy/halophot/) : K2 Halo Photometry for very bright stars
+- [cave](http://github.com/nksaunders/cave) : Crowded Aperture Variability Extraction
+- [celerite-asteroseis](http://github.com/skgrunblatt/celerite-asteroseis) : Transit fitting and basic time-domain asteroseismology using celerite and ktransit
+- [k2photometry](http://github.com/vincentvaneylen/k2photometry) : Read, reduce and detrend K2 photometry and search for transiting planets
+- [keplersmear](http://github.com/benjaminpope/keplersmear) : Make light curves from Kepler and K2 collateral data
+- [OxKeplerSC](http://github.com/OxES/OxKeplerSC) : Kepler jump and systematics correction using Variational Bayes and shrinkage priors.
+- [K2Pipeline](http://github.com/FGCUStellarResearch/K2Pipeline) : Data reduction and detrending pipeline for K2 data in Matlab
+- [PySysRem](http://github.com/stephtdouglas/PySysRem) : A Python implementation of the SysRem algorithm from Tamuz, Mazeh, and Zucker (2004)
+
+*Full Frame Images*
+
+- [f3](http://github.com/benmontet/f3) : Full Frame Fotometry from the Kepler Full Frame Images
+- [FFIorBUST](http://github.com/jradavenport/FFIorBUST) : Make really bad light curves from the Kepler Full Frame Images
+- [kepcal](http://github.com/dfm/kepcal) : Self calibration using the Kepler FFIs
+
+*Data Access*
+
+- [kplr](http://github.com/dfm/kplr) : Tools for working with Kepler data using Python
+- [kepFGS](http://github.com/christinahedges/kepFGS) : Tools to use the Kepler and K2 Fine Guidance Sensor data.
+- [k2plr](http://github.com/rodluger/k2plr) : Fork of dfm/kplr with added k2 functionality
+
+
+*Metadata*
+
+- [kadenza](http://github.com/KeplerGO/kadenza) : Converts raw cadence target data from the Kepler space telescope into FITS files.
+- [k2-quality-control](http://github.com/KeplerGO/k2-quality-control) : Automated quality control of Kepler/K2 data products.
+- [SuperstampFITS](http://github.com/amcody/SuperstampFITS) : Create individual FITS files of K2 superstamp regions.
+- [keputils](http://github.com/timothydmorton/keputils) : Basic module for interaction with KOI and Kepler-stellar tables.
+
+*Planet Search*
+
+
+- [PyTransit](http://github.com/hpparvi/PyTransit) : Fast and easy transit light curve modeling using Python and Fortran.
+- [batman](http://github.com/lkreidberg/batman) : Fast transit light curves models in Python.
+- [ktransit](http://github.com/mrtommyb/ktransit) : A simple exoplanet transit modeling tool in python
+- [planetplanet](http://github.com/rodluger/planetplanet) : A general photodynamical code for exoplanet light curves
+- [ketu](http://github.com/dfm/ketu) : I can haz planetz?
+- [ttvfast-python](http://github.com/mindriot101/ttvfast-python) : Python interface to the TTVFast library
+- [terra](http://github.com/petigura/terra) : Transit Detection Code
+- [pysyzygy](http://github.com/rodluger/pysyzygy) : A fast and general planet transit (syzygy) code written in C and in Python
+- [k2ps](http://github.com/hpparvi/k2ps) : K2 Planet Search
+- [lcps](http://github.com/matiscke/lcps) : A tool for pre-selecting light curves with possible transit signatures
+
+
+*Population Statistics*
+
+
+- [VESPA](http://github.com/timothydmorton/VESPA) : Calculating false positive probabilities for transit signals
+- [kepler-robovetter](http://github.com/nasa/kepler-robovetter) : The Kepler Prime Robovetter
+- [koi-fpp](http://github.com/timothydmorton/koi-fpp) : False positive probabilities for all KOIs
+- [KeplerPORTS](http://github.com/nasa/KeplerPORTS) : The Kepler Pipeline
+- [Kepler-FLTI](http://github.com/nasa/Kepler-FLTI) : Kepler Prime Flux-Level Transit Injection
+
+
+*Positional*
+
+
+- [K2fov](http://github.com/KeplerGO/K2fov) : Check whether targets are in the field of view of NASA's K2 space telescope
+- [K2ephem](http://github.com/KeplerGO/K2ephem) : Check whether a Solar System body is (or was) observable by NASA's K2 mission.
+- [k2-pix](http://github.com/stephtdouglas/k2-pix) : Overlay a sky survey image on a K2 target pixel stamp
+- [k2flix](http://github.com/barentsen/k2flix) : Create quicklook movies from the pixel data observed by Kepler/K2/TESS
+- [k2mosaic](http://github.com/barentsen/k2mosaic) : Mosaic Target Pixel Files (TPFs) obtained by NASA's Kepler/K2 missions into images and movies.
+- [tvguide](http://github.com/tessgi/tvguide) : A tool for determining whether stars and galaxies are observable by TESS.
+
+
+*Science / Astrophysics*
+
+
+- [isochrones](http://github.com/timothydmorton/isochrones) : Pythonic stellar model grid access; easy MCMC fitting of stellar properties
+- [ldtk](http://github.com/hpparvi/ldtk) : Python toolkit for calculating stellar limb darkening profiles
+- [isoclassify](http://github.com/danxhuber/isoclassify) : Perform stellar classifications using isochrone grids
+- [appaloosa](http://github.com/jradavenport/appaloosa) : Python-based flare finding code for Kepler light curves.
+- [pymacula](http://github.com/timothydmorton/pymacula) : Python wrapper for Macula analytic starspot code
+- [MulensModel](http://github.com/rpoleski/MulensModel) : Microlensing Modelling package
+- [animate_spots](http://github.com/stephtdouglas/animate_spots) : Make frames for animated gifs/movies showing a rotating spotted star
+- [decatur](http://github.com/jadilia/decatur) : Tidal Synchronization of Kepler Eclipsing Binaries
+
+
+*Other*
+
+- [PandExo](http://github.com/natashabatalha/PandExo) : A Community Tool for Transiting Exoplanet Science with the JWST & HST
+- [kepler_orrery](http://github.com/ethankruse/kepler_orrery) : Make a Kepler orrery gif or movie of all the Kepler multi-planet systems
+- [radvel](http://github.com/California-Planet-Search/radvel) : General Toolkit for Modeling Radial Velocity Data
+- [koi3278](http://github.com/ethankruse/koi3278) : Analysis files for the KOI-3278 system
+- [trappist1](http://github.com/rodluger/trappist1) : TRAPPIST-1 photometry with K2
+
+
 
 #### IDL
 
