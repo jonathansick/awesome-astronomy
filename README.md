@@ -30,32 +30,82 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 
 #### General purpose
 
+- [Andy Casey's ads](https://github.com/andycasey/ads) - Python tool for ADS
 - [Astronomy Source Code Library](http://ascl.net/) - A free online registry for source codes of interest to astronomers and astrophysicists.
 - [Continuum Anaconda](https://www.continuum.io/why-anaconda) - Install, update, manage Python environments.
-- [ztv](https://github.com/henryroe/ztv) - An astronomical image viewer written in Python.
 - [AplPy](http://aplpy.github.io) - a Python module for astronomical imaging data.
 - [Astropy](http://astropy.org) - Core package for Astronomy in Python.
+- [Astropy tutorials](https://github.com/astropy/astropy-tutorials) - Tutorials for the Astropy Project
 - [AstroML](http://www.astroml.org) - Companion textbook *Statistics, Data Mining, and Machine Learning in Astronomy*.
+- [celerite](https://github.com/dfm/celerite) - Scalable 1D Gaussian Processes in C++, Python, and Julia
 - [Emcee](http://dan.iel.fm/emcee/current/) - Seriously kick-ass MCMC.
 - [ExoData](https://github.com/ryanvarley/ExoData) - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) interface and exploratory analysis tool.
-- [gala](https://github.com/adrn/gala) - Galactic and gravitational dynamics in Python
-- [GalPy](https://github.com/jobovy/galpy) - Galactic Dynamics in python.
+- [fast-histogram](https://github.com/astrofrog/fast-histogram) - Fast 1D and 2D histogram functions in Python
 - `IDL` [NASA'S IDL Astronomy User's Library](http://idlastro.gsfc.nasa.gov/) - large libary with plenty of very useful code for astronomers
 - [The LSST Stack](https://confluence.lsstcorp.org/display/LSWUG/Using+the+LSST+Stack) Conda-installable codes for working with LSST simulation data and some existing data.
 Detrending & Analysis
+- [sncosmo](https://github.com/sncosmo/sncosmo) - Python library for supernova cosmology
+- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+
+
+#### Astrometry / Kinematic / RV / Galactic / Gaia
+
+- [Banyan Sigma](https://github.com/jgagneastro/banyan_sigma) - A Bayesian classifier to identify members of the 27 nearest young associations within 150 pc of the Sun
+- [Barycorrpy](https://github.com/shbhuk/barycorrpy) - Calculate the barycentric velocity correction for a star with an accuracy well below 1 cm/s.
+- [gaia on tap](https://github.com/andycasey/gaia-on-tap) - Python utilities and examples for accessing Gaia data using the Table Access Protocol (TAP)
+- [gaia tools](https://github.com/jobovy/gaia_tools) - Tools for working with the ESAGaia data and related data sets
+- [gala](https://github.com/adrn/gala) - Galactic and gravitational dynamics in Python
+- [GalPy](https://github.com/jobovy/galpy) - Galactic Dynamics in python.
+- [Luminosity Calibration Tutorial](https://github.com/agabrown/luminosity-calibration-tutorial) - Tutorial on use of parallaxes in luminosity calibration; accompanies a Gaia DR2 paper on the proper use of parallaxes (Luri et al. in prep)
+- [vaex](https://github.com/maartenbreddels/vaex) - Lazy Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.
+- [ExoSOFT](https://github.com/kylemede/ExoSOFT) - Solves for the orbital elements of any single companion, provided observed radial velocity and/or astrometry.
+- [pyaneti](https://github.com/oscaribv/pyaneti) - A multi-planet Radial Velocity and Transit fit software
+- [PyGaia](https://github.com/agabrown/PyGaia) - Python toolkit for basic Gaia data simulation, manipulation, and analysis
+- [radvel](http://github.com/California-Planet-Search/radvel) - General Toolkit for Modeling Radial Velocity Data
+
 
 #### Spectroscopy
 
+ - [Apogee](https://github.com/jobovy/apogee) - Tools for dealing with APOGEE data
+ - [Chimera](https://github.com/ExoCTK/chimera) - Atmospheric retrieval code from Mike Line
+ - [The](https://github.com/mkness/TheCannon) [Cannon](https://github.com/annayqho/TheCannon) - a data-driven method for determining stellar parameters and abundances from stellar spectra.
+ - [The Payne](https://github.com/pacargile/ThePayne) - Artificial Neural-Net compression and fitting of synthetic spectral grids.
+ - [PSOAP](https://github.com/iancze/PSOAP) - Tools for data-driven spectra models with Gaussian processes. Pronounced "soap."
+ - [pydis](https://github.com/jradavenport/pydis) - A simple longslit spectroscopy pipeline in Python
+ - [pyspeckit](https://github.com/pyspeckit/pyspeckit) - Python Spectroscopic Toolkit
+ - [sick](https://github.com/andycasey/sick) - the spectroscopic inference crank
+ - [Specmatch Empirical](https://github.com/samuelyeewl/specmatch-emp) - tool to extract the fundamental properties (effective temperature, radius, and metallicity) by comparing a target star's spectrum to a library of spectra from stars with known properties.
+ - [Specmatch Synthetic](https://github.com/petigura/specmatch-syn) - tool to extract the fundamental properties (effective temperature, radius, and metallicity) by comparing a target star's spectrum to synthetic spectra.
+ - [specviz](https://github.com/spacetelescope/specviz) - An interactive astronomical 1D spectra analysis tool.
+ - [specutils](https://github.com/astropy/specutils) - Astropy affiliated package for 1D spectral operations.
+ - [splat](https://github.com/aburgasser/splat) - SpeX Prism Spectral Analysis Toolkit
  - [Starfish](https://github.com/iancze/Starfish) - Tools for Flexible Spectroscopic Inference
+ - [TelFit](https://github.com/kgullikson88/Telluric-Fitter) - Telluric fitting made easy
+ - [wobble](https://github.com/megbedell/wobble) - Precise data-driven RV fitting, now with tellurics!
 
-#### PSF photometry and source detection
+#### Photometry and source detection
 
+ - [image registration](https://github.com/keflavich/image_registration) - Image Registration for Astronomy.
+ - `julia`[Celeste.jl](https://github.com/jeff-regier/Celeste.jl) - Scalable inference for a generative model of astronomical images.
+ - [Dust Maps](https://github.com/gregreen/dustmaps) - A uniform interface for a number of 2D and 3D maps of interstellar dust reddening/extinction.
+ - [fsps](https://github.com/cconroy20/fsps) - Flexible Stellar Population Synthesis
+ - [LA Cosmicx](https://github.com/cmccully/lacosmicx) - A fast implementation of the LA Cosmic algorithm
  - `R` [ProFound](https://github.com/asgr/ProFound) - Source finding and extraction
  - [PSFutils](https://github.com/spacetelescope/psfutils) - Open-source Python package to provide convenience tools for working with point-spread functions.
+ - [Synphot](https://github.com/spacetelescope/synphot_refactor) - Synthetic photometry using Astropy
+ - [NOAO Source Catalog](https://github.com/dnidever/noaosourcecatalog) - Source catalog of all NOAO imaging data
+ - [sep](https://github.com/kbarbary/sep) - Python and C library for source extraction and photometry
+ - [sewpy](https://github.com/megalut/sewpy) - Source Extractor Wrapper for Python
 
 #### Visualization
 
 - [astro_animations](https://github.com/zingale/astro_animations) - Various animations used for teaching introductory astronomy concepts
+- [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
+- [holoviews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+- [aplpy](https://github.com/aplpy/aplpy) - Astronomical Plotting Library in Python
+- [spectrify](https://github.com/labjg/spectrify) - Reverse engineer astronomical spectra into pretty rainbow pictures with Python
+- [ztv](https://github.com/henryroe/ztv) - An astronomical image viewer written in Python.
 
 #### Kepler/K2/TESS
 
@@ -76,6 +126,7 @@ Detrending & Analysis
 - [OxKeplerSC](http://github.com/OxES/OxKeplerSC) - Kepler jump and systematics correction using Variational Bayes and shrinkage priors.
 - [K2Pipeline](http://github.com/FGCUStellarResearch/K2Pipeline) - Data reduction and detrending pipeline for K2 data in Matlab
 - [PySysRem](http://github.com/stephtdouglas/PySysRem) - A Python implementation of the SysRem algorithm from Tamuz, Mazeh, and Zucker (2004)
+- [kali](https://github.com/AstroVPK/kali) - A library to model a time series as a Continuous-time ARMA process
 
 *Full Frame Images*
 
@@ -97,7 +148,7 @@ Detrending & Analysis
 - [SuperstampFITS](http://github.com/amcody/SuperstampFITS) - Create individual FITS files of K2 superstamp regions.
 - [keputils](http://github.com/timothydmorton/keputils) - Basic module for interaction with KOI and Kepler-stellar tables.
 
-*Planet Search*
+*Planet Search / Characterization*
 
 
 - [PyTransit](http://github.com/hpparvi/PyTransit) - Fast and easy transit light curve modeling using Python and Fortran.
@@ -106,11 +157,15 @@ Detrending & Analysis
 - [planetplanet](http://github.com/rodluger/planetplanet) - A general photodynamical code for exoplanet light curves
 - [ketu](http://github.com/dfm/ketu) - I can haz planetz?
 - [ttvfast-python](http://github.com/mindriot101/ttvfast-python) - Python interface to the TTVFast library
+- `fortran` [TTVFast](https://github.com/kdeck/TTVFast) - TTVFast efficiently calculates transit times for n-planet systems and the corresponding radial velocities.
 - [terra](http://github.com/petigura/terra) - Transit Detection Code
 - [pysyzygy](http://github.com/rodluger/pysyzygy) - A fast and general planet transit (syzygy) code written in C and in Python
 - [k2ps](http://github.com/hpparvi/k2ps) - K2 Planet Search
 - [lcps](http://github.com/matiscke/lcps) - A tool for pre-selecting light curves with possible transit signatures
+- [PyOrbit](https://github.com/LucaMalavolta/PyORBIT) - PyORBIT: a code for exoplanet orbital parameters and stellar activity.
 - [exocartographer](https://github.com/bfarr/exocartographer) - A forward-modeling tool for constraining surface maps orbital parameters of exoplanets from time-resolved photometry
+- [Spiderman](https://github.com/tomlouden/SPIDERMAN) - A fast code to simulate secondary transits and phase curves
+- [ExoCTK](https://github.com/ExoCTK/ExoCTK) - The Exoplanet Characterization Tool Kit, an open-source, modular data analysis package focused primarily on atmospheric characterization of exoplanets
 
 
 *Population Statistics*
@@ -152,7 +207,6 @@ Detrending & Analysis
 
 - [PandExo](http://github.com/natashabatalha/PandExo) - A Community Tool for Transiting Exoplanet Science with the JWST & HST
 - [kepler_orrery](http://github.com/ethankruse/kepler_orrery) - Make a Kepler orrery gif or movie of all the Kepler multi-planet systems
-- [radvel](http://github.com/California-Planet-Search/radvel) - General Toolkit for Modeling Radial Velocity Data
 - [koi3278](http://github.com/ethankruse/koi3278) - Analysis files for the KOI-3278 system
 - [trappist1](http://github.com/rodluger/trappist1) - TRAPPIST-1 photometry with K2
 
