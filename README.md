@@ -226,6 +226,7 @@ Detrending & Analysis
 - [AAVSO Data](https://www.aavso.org/data-download) - Long time baseline data for variable stars.
 - [AllWISE](http://irsa.ipac.caltech.edu/Missions/wise.html) - Wide Field Infrared Survey Explorer.
 - [AstroML](http://www.astroml.org/user_guide/datasets.html) - Tools and data sets, including SDSS, LINEAR light curves, LIGO data.
+- [Gaia Archive](https://www.cosmos.esa.int/web/gaia/data) - Gaia data for one billion stars.
 - [GALEX SQL query](http://galex.stsci.edu/casjobs/) - Galex data.
 - [Hipparcos](http://heasarc.gsfc.nasa.gov/W3Browse/all/hipparcos.html) - Subset of HYG.
 - [HYG](http://www.astronexus.com/hyg)- Database containing all stars in Hipparcos, Yale Bright Star, and Gliese catalogs (almost 120,000 stars, 14 MB).
