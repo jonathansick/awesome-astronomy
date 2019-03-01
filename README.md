@@ -213,7 +213,8 @@ Detrending & Analysis
 #### Instrumentation
 
 - [binaryoffset](https://github.com/snfactory/binaryoffset) - Detecting and Correcting the Binary Offset Effect in CCDs
-
+- [INDI](https://github.com/indilib/indi) - INDI is a standard for astronomical instrumentation control
+- [astroberry-server](https://github.com/rkaczorek/astroberry-server) - astronomy desktop system for Raspberry Pi 3 based on INDI
 
 ### Conferences
 
