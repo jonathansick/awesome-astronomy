@@ -47,6 +47,7 @@ Detrending & Analysis
 - [sncosmo](https://github.com/sncosmo/sncosmo) - Python library for supernova cosmology
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+- [PyCBC](https://github.com/gwastro/pycbc) - For GW Astronomy
 
 
 #### Astrometry / Kinematic / RV / Galactic / Gaia
