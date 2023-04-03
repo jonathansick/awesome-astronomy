@@ -9,6 +9,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [Conferences](#conferences)
 - [Datasets](#datsets)
 - [Social Media](#social-media)
+- [Projects](#projects)
 
 ***
 
@@ -254,6 +255,9 @@ Detrending & Analysis
 - [Astromers.io](http://astronomers.io/) - "A nice place for astronomers, and those working in the sphere of professional astronomy"
 - [Community.lsst.org](https://community.lsst.org) - A community forum for using/developing LSST software and doing science with LSST.
 - [Python Users in Astronomy](https://www.facebook.com/groups/astropython/) - A closed group for python users in astronomy.
+
+### Projects
+- [Project Panoptes](https://projectpanoptes.org/) - A citizen science project that aims to make it easy for anyone to build a low cost, robotic telescope that can be used to detect transiting exoplanets.
 
 ****
 
