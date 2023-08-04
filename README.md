@@ -79,6 +79,7 @@ Detrending & Analysis
  - [sick](https://github.com/andycasey/sick) - the spectroscopic inference crank
  - [Specmatch Empirical](https://github.com/samuelyeewl/specmatch-emp) - tool to extract the fundamental properties (effective temperature, radius, and metallicity) by comparing a target star's spectrum to a library of spectra from stars with known properties.
  - [Specmatch Synthetic](https://github.com/petigura/specmatch-syn) - tool to extract the fundamental properties (effective temperature, radius, and metallicity) by comparing a target star's spectrum to synthetic spectra.
+ - [SpectResC](https://github.com/cylammarco/SpectResC) - A simple spectral resampling Python tool written in C (based on [SpectRes](https://github.com/ACCarnall/SpectRes))
  - [specviz](https://github.com/spacetelescope/specviz) - An interactive astronomical 1D spectra analysis tool.
  - [specutils](https://github.com/astropy/specutils) - Astropy affiliated package for 1D spectral operations.
  - [splat](https://github.com/aburgasser/splat) - SpeX Prism Spectral Analysis Toolkit
