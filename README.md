@@ -155,6 +155,7 @@ Detrending & Analysis
 *Planet Search / Characterization*
 
 
+- [ExoPy](https://github.com/kermitine/exopy) - Comprehensive light curve analysis and exoplanet data calculator in python
 - [PyTransit](http://github.com/hpparvi/PyTransit) - Fast and easy transit light curve modeling using Python and Fortran.
 - [batman](http://github.com/lkreidberg/batman) - Fast transit light curves models in Python.
 - [ktransit](http://github.com/mrtommyb/ktransit) - A simple exoplanet transit modeling tool in python
