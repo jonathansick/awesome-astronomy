@@ -2,6 +2,7 @@
 
 An [awesome list](https://github.com/sindresorhus/awesome) of resources for professional astronomers.  *Everyone* is invited to [contribute](CONTRIBUTING.md) by pull request.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for astronomy data workflow orchestration, automated telescope and sky survey pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Blogs](#blogs)
