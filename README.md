@@ -143,6 +143,7 @@ Detrending & Analysis
 - [kplr](http://github.com/dfm/kplr) - Tools for working with Kepler data using Python
 - [kepFGS](http://github.com/christinahedges/kepFGS) - Tools to use the Kepler and K2 Fine Guidance Sensor data.
 - [k2plr](http://github.com/rodluger/k2plr) - Fork of dfm/kplr with added k2 functionality
+- [Astroquery](https://astroquery.readthedocs.io/en/latest/) -  Set of tools for querying astronomical web forms and databases
 
 
 *Metadata*
@@ -247,6 +248,7 @@ Detrending & Analysis
 - [SDSS SQL query](http://skyserver.sdss.org/dr12/en/proj/advanced/hr/sql.aspx) - Sloan Digital Sky Survey.
 - [SDSS for Teachers](http://cas.sdss.org/dr5/en/proj/teachers/) - Includes basic projects and advanced projects
 - [Supernova Cosmology Project](http://supernova.lbl.gov/union/) The Union2.1 SN Ia compilation of 883 SNe from 19 datasets.
+- [Euclid Science Archive](https://eas.esac.esa.int/sas/)) - Euclid data releases.
 
 ### Future Datasets
 
