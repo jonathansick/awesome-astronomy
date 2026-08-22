@@ -43,6 +43,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [Emcee](http://dan.iel.fm/emcee/current/) - Seriously kick-ass MCMC.
 - [ExoData](https://github.com/ryanvarley/ExoData) - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue) interface and exploratory analysis tool.
 - [fast-histogram](https://github.com/astrofrog/fast-histogram) - Fast 1D and 2D histogram functions in Python
+- `rust` [Vedaksha](https://github.com/arthiqlabs/vedaksha) - Clean-room ephemeris engine reading JPL DE440s/DE441 SPK kernels, with VSOP87A and ELP/MPP02 compiled to constants for a no-data-file build; Python and WebAssembly bindings.
 - `IDL` [NASA'S IDL Astronomy User's Library](http://idlastro.gsfc.nasa.gov/) - large libary with plenty of very useful code for astronomers
 - [The LSST Stack](https://confluence.lsstcorp.org/display/LSWUG/Using+the+LSST+Stack) Conda-installable codes for working with LSST simulation data and some existing data.
 Detrending & Analysis
