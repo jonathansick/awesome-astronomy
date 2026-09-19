@@ -150,6 +150,7 @@ Detrending & Analysis
 - [kadenza](http://github.com/KeplerGO/kadenza) - Converts raw cadence target data from the Kepler space telescope into FITS files.
 - [k2-quality-control](http://github.com/KeplerGO/k2-quality-control) - Automated quality control of Kepler/K2 data products.
 - [SuperstampFITS](http://github.com/amcody/SuperstampFITS) - Create individual FITS files of K2 superstamp regions.
+- [FITS HDU bind](https://github.com/shaneraphel/fits-hdu-bind) - register FITS HDUs by fits id so two extensions cannot append into one unsigned list.
 - [keputils](http://github.com/timothydmorton/keputils) - Basic module for interaction with KOI and Kepler-stellar tables.
 
 *Planet Search / Characterization*
