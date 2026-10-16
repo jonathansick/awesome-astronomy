@@ -263,6 +263,7 @@ Detrending & Analysis
 
 ### Projects
 - [Project Panoptes](https://projectpanoptes.org/) - A citizen science project that aims to make it easy for anyone to build a low cost, robotic telescope that can be used to detect transiting exoplanets.
+- [Little Cosmos](https://github.com/monster592517/little-cosmos) - A browser-based six-scale universe simulation, from the Solar System to the observable universe, using real ephemerides and with direct research-paper links for every object. ([live demo](https://monster592517.github.io/little-cosmos/))
 
 ****
 
