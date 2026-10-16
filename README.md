@@ -66,6 +66,7 @@ Detrending & Analysis
 - [pyaneti](https://github.com/oscaribv/pyaneti) - A multi-planet Radial Velocity and Transit fit software
 - [PyGaia](https://github.com/agabrown/PyGaia) - Python toolkit for basic Gaia data simulation, manipulation, and analysis
 - [radvel](http://github.com/California-Planet-Search/radvel) - General Toolkit for Modeling Radial Velocity Data
+- [exostab](https://github.com/mimitoz62/exostab) - Orbital-stability indicators (Hill spacing, angular momentum deficit, REBOUND N-body with MEGNO) for known multi-planet systems, with published uncertainties propagated and every data assumption shown.
 
 
 #### Spectroscopy
