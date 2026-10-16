@@ -262,6 +262,7 @@ Detrending & Analysis
 - [Python Users in Astronomy](https://www.facebook.com/groups/astropython/) - A closed group for python users in astronomy.
 
 ### Projects
+* [Space Atlas](https://saramjh.github.io/space_atlas_student/) - Browser-based interactive Moon phases, seasons, and cosmic-scale visualizations for introductory astronomy learning. [JavaScript]
 - [Project Panoptes](https://projectpanoptes.org/) - A citizen science project that aims to make it easy for anyone to build a low cost, robotic telescope that can be used to detect transiting exoplanets.
 
 ****
