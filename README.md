@@ -263,6 +263,7 @@ Detrending & Analysis
 
 ### Projects
 - [Project Panoptes](https://projectpanoptes.org/) - A citizen science project that aims to make it easy for anyone to build a low cost, robotic telescope that can be used to detect transiting exoplanets.
+- [Space Simulator Online](https://spacesimulator.online/) - Interactive WebGL2 3D Solar System, night-sky planetarium, Messier deep-sky catalog, and NASA 6,000+ exoplanet explorer with TESS transit light curves.
 
 ****
 
