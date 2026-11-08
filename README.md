@@ -263,6 +263,7 @@ Detrending & Analysis
 
 ### Projects
 - [Project Panoptes](https://projectpanoptes.org/) - A citizen science project that aims to make it easy for anyone to build a low cost, robotic telescope that can be used to detect transiting exoplanets.
+- [Perigee](https://perigee.info/) - Real-time 3D web viewer of the satellites orbiting the Earth, the orbiters of the Moon and Mars and the spacecraft crossing the solar system, computed in the browser from CelesTrak orbital elements and JPL Horizons ephemerides, with student guide pages (moon phase, next eclipse, where is the ISS) in English and French. [typescript]
 
 ****
 
