@@ -35,6 +35,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for prof
 - [Andy Casey's ads](https://github.com/andycasey/ads) - Python tool for ADS
 - [Astronomy Source Code Library](http://ascl.net/) - A free online registry for source codes of interest to astronomers and astrophysicists.
 - [Continuum Anaconda](https://www.continuum.io/why-anaconda) - Install, update, manage Python environments.
+- [astrotales-core](https://github.com/Neeleshydv/astrotales-core) - High-precision JavaScript engine for Julian Day numbers, planetary positions, and Ascendant horizons ([AstroTales](https://astrotales.co.in)).
 - [AplPy](http://aplpy.github.io) - a Python module for astronomical imaging data.
 - [Astropy](http://astropy.org) - Core package for Astronomy in Python.
 - [Astropy tutorials](https://github.com/astropy/astropy-tutorials) - Tutorials for the Astropy Project
