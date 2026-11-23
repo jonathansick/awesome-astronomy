@@ -262,6 +262,7 @@ Detrending & Analysis
 - [Python Users in Astronomy](https://www.facebook.com/groups/astropython/) - A closed group for python users in astronomy.
 
 ### Projects
+- [ChronosphereX](https://chronospherex.com/) - Browser viewer that lays NASA SPHEREx images of any spot on one grid with older 2MASS and WISE images and measures the stars' motion from them.
 - [Project Panoptes](https://projectpanoptes.org/) - A citizen science project that aims to make it easy for anyone to build a low cost, robotic telescope that can be used to detect transiting exoplanets.
 
 ****
